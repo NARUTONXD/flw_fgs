@@ -9,6 +9,9 @@
         "BR"
       ],
       "Event":[
+        "adj_complete_registration",
+        "adj_purchase1",
+        "adj_purchase1_value",
         "deposit",
         "depositSubmit",
         "deposit-success",
@@ -17,26 +20,29 @@
         "first-deposit-success",
         "firstOpen",
         "first-recharge-success",
+        "recharge-success",
         "register",
         "registerSubmit",
-        "register-success",
         "signup-success",
         "withdraw"
       ],
       "ID":[
-        "ohoogc",
-        "2afi5o",
-        "8jxdpe",
-        "i5l23m",
-        "axtgrt",
-        "3i0cpl",
-        "45o5bs",
-        "qvezg7",
-        "wzk7g1",
-        "c1kolv",
-        "qhfi0a",
-        "mjdpjv",
-        "u42v7s"
+        "3mi4eh",
+        "6rth1b",
+        "dj1nix",
+        "etqatm",
+        "rg90ti",
+        "7so1ac",
+        "wj7kqg",
+        "9a7flf",
+        "bln2as",
+        "o7y0rd",
+        "x7a4b9",
+        "f9x4hl",
+        "srcdzl",
+        "jsp1x7",
+        "qbu6f7",
+        "2cplkm"
       ]
     }
   }
