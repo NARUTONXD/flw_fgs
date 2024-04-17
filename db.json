@@ -1,43 +1,12 @@
-{
-  "AB":{
-    "A":{
-      "U":"1",
-      "onoff":false,
-      "Area":[
-        "PH",
-        "IN",
-        "BR"
-      ],
-      "Event":[
-        "deposit",
-        "depositSubmit",
-        "deposit-success",
-        "firstDeposit",
-        "firstDepositArrival",
-        "first-deposit-success",
-        "firstOpen",
-        "first-recharge-success",
-        "register",
-        "registerSubmit",
-        "register-success",
-        "signup-success",
-        "withdraw"
-      ],
-      "ID":[
-        "khm6u3",
-        "10hict",
-        "kynyza",
-        "n3jzck",
-        "xno6fk",
-        "hkw68q",
-        "5k2636",
-        "lajjdh",
-        "5ah7go",
-        "ruu3xx",
-        "1rtngw",
-        "5b8jcv",
-        "vrho2a"
-      ]
-    }
-  }
+{"content":["停船暂借问，或恐是同乡",
+"投我以木瓜，报之以琼琚",
+"既见君子，云胡不喜？",
+"老朋友好久不见啊，变化好大！",
+"有美一人，清扬婉兮",
+"山有木兮木有枝，心悦君兮君不知",
+"愿我如星君如月，夜夜流光相皎洁",
+"晓看天色暮看云，行也思君，坐也思君。",
+"玲珑骰子安红豆，入骨相思知不知。",
+"垆边人似月，皓腕凝霜雪",
+"我欲与君相知，长命无绝衰"]
 }
