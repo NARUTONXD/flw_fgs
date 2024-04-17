@@ -1,50 +1,26 @@
 {
-  "AB":{
-    "A":{
-      "U":"https://www.wjslot10.com/?uagt=aaa046&path=root",
-      "onoff":1,
-      "Area":[
-        "TR",
-        "BR",
-        "HK",
-        "PH"
-      ],
-      "Event":[
-        "adj_complete_registration",
-        "adj_purchase1",
-        "adj_purchase1_value",
-        "deposit",
-        "depositSubmit",
-        "deposit-success",
-        "firstDeposit",
-        "firstDepositArrival",
-        "first-deposit-success",
-        "firstOpen",
-        "first-recharge-success",
-        "recharge-success",
-        "register",
-        "registerSubmit",
-        "signup-success",
-        "withdraw"
-      ],
-      "ID":[
-        "3mi4eh",
-        "6rth1b",
-        "dj1nix",
-        "etqatm",
-        "rg90ti",
-        "7so1ac",
-        "wj7kqg",
-        "9a7flf",
-        "bln2as",
-        "o7y0rd",
-        "x7a4b9",
-        "f9x4hl",
-        "srcdzl",
-        "jsp1x7",
-        "qbu6f7",
-        "2cplkm"
-      ]
-    }
-  }
+    "account": ["xh1", "xh2"],
+    "button": {
+        "guanzhu": "hoj",
+        "touxiang": "user_avatar",
+        "dianzan": "erg",
+        "shoucang": "czo",
+        "pinglun": "c97",
+        "plshuru": "c3r",
+        "plsend": "c67",
+        "name": "title",
+        "wenan": "desc",
+        "btnback": "back_btn"
+    },
+    "force_addcontent": "1",
+    "content": ["停船暂借问，或恐是同乡", "投我以木瓜，报之以琼琚", "既见君子，云胡不喜？",
+        "老朋友好久不见啊，变化好大！",
+        "有美一人，清扬婉兮",
+        "山有木兮木有枝，心悦君兮君不知",
+        "愿我如星君如月，夜夜流光相皎洁",
+        "晓看天色暮看云，行也思君，坐也思君",
+        "玲珑骰子安红豆，入骨相思知不知",
+        "垆边人似月，皓腕凝霜雪",
+        "我欲与君相知，长命无绝衰"
+    ]
 }
