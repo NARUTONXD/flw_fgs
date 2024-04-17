@@ -1,19 +1,43 @@
 {
-    "account": ["xh1", "xh2"],
-    "button": {
-        "guanzhu": "hoj",
-        "touxiang": "user_avatar",
-        "dianzan": "erg",
-        "shoucang": "czo",
-        "pinglun": "c97",
-        "plshuru": "c3r",
-        "plsend": "c67",
-        "name": "title",
-        "wenan": "desc",
-        "btnback": "back_btn"
-    },
-    "force_addcontent": "1",
-    "content": ["\u505c\u8239\u6682\u501f\u95ee\uff0c\u6216\u6050\u662f\u540c\u4e61",
-        "\u6295\u6211\u4ee5\u6728\u74dc\uff0c\u62a5\u4e4b\u4ee5\u743c\u741a"
-    ]
+  "AB":{
+    "A":{
+      "U":"1",
+      "onoff":false,
+      "Area":[
+        "PH",
+        "IN",
+        "BR"
+      ],
+      "Event":[
+        "deposit",
+        "depositSubmit",
+        "deposit-success",
+        "firstDeposit",
+        "firstDepositArrival",
+        "first-deposit-success",
+        "firstOpen",
+        "first-recharge-success",
+        "register",
+        "registerSubmit",
+        "register-success",
+        "signup-success",
+        "withdraw"
+      ],
+      "ID":[
+        "khm6u3",
+        "10hict",
+        "kynyza",
+        "n3jzck",
+        "xno6fk",
+        "hkw68q",
+        "5k2636",
+        "lajjdh",
+        "5ah7go",
+        "ruu3xx",
+        "1rtngw",
+        "5b8jcv",
+        "vrho2a"
+      ]
+    }
+  }
 }
